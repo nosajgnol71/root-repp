@@ -1,0 +1,1 @@
+cd /data/data/com.foxdebug.acodefree && mv /storage/emulated/0/Android/data/exa.free.bbin/files/busybox /data/data/com.foxdebug.acodefree && chmod 755 busybox
